@@ -35,13 +35,13 @@ analyse de l'existant
 =====================
 - about             => _pages/about.md et utilise le _layouts/about.liquid
 - blog              => _pages/blog.md et _posts/*.md
-- publications      => supprimer
-- projects          => supprimer
-- repositories      => supprimer
-- cv                => supprimer
+- publications      => supprimer publications.md
+- projects          => supprimer projects.md
+- repositories      => supprimer repositories.md
+- cv                => supprimer cv.md
 - teaching          => transformer en "Stocks"
-- people            => supprimer
-- submenus          => supprimer
+- people            => supprimer profiles.md et about_einstein.md
+- submenus          => supprimer dropdown.md
 
 
 
