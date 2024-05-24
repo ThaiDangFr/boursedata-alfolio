@@ -1,7 +1,21 @@
+al-folio
+========
+- https://github.com/alshedivat/al-folio
+- exemple : https://alshedivat.github.io/al-folio/
+
 git
 ===
 - push vers master => redeploie automatiquement et met à jour la branche gh-pages
 - j'ai protégé la branche master, et créé une branche develop
+
+merger avec les nouveautés de la version originale
+```bash
+git remote add template git@github.com:alshedivat/al-folio.git
+git fetch template
+git checkout develop
+git merge template/master --allow-unrelated-histories
+=> ouvrir sublime merge pour choisir theirs ou ours
+```
 
 
 dev en local
@@ -16,6 +30,7 @@ $ docker compose up --build
 - pour exclure des fichiers du rebuild automatique, voir dans \_config.yml dans la section "exclude:"
 
 
+
 analyse de l'existant
 =====================
 - about             => _pages/about.md et utilise le _layouts/about.liquid
@@ -24,9 +39,12 @@ analyse de l'existant
 - projects          => supprimer
 - repositories      => supprimer
 - cv                => supprimer
-- teaching
+- teaching          => transformer en "Stocks"
 - people            => supprimer
 - submenus          => supprimer
+
+
+
 
 
 cible
