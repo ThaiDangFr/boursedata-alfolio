@@ -47,9 +47,11 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
+search_enabled: true
+socials_in_search: true
 
 # Dimensions
-max_width: 800px
+max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -127,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-blog_description: latest news and educational content
+blog_description: Dernières nouveautés et contenu à but éducatif
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
@@ -266,7 +268,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt"]
+  exclude: ["robots.txt", "assets/js/search/*.js"]
   uglifier_args:
     harmony: true
 
