@@ -14,7 +14,7 @@ footer_text: >
 
 keywords: analyse d'actions, contenu éducatif, investissement, stock analysis, educational content on investing
 lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📈 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://boursedata.fr # the base hostname & protocol for your site
 baseurl:
@@ -109,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Pour toute question ou suggestion, n'hésitez pas à me contacter par e-mail.
+  Pour toute question ou suggestion, n'hésitez pas à nous contacter par e-mail.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
