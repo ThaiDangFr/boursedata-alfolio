@@ -2,8 +2,8 @@
 layout: post
 title: Trading vs investissement
 date: 2024-05-25 11:59:00-0000
-description: trading et investissement
-tags: trading investissement momentum
+description: La différence entre le trading et l'investissement
+tags: trading investir
 categories: education
 giscus_comments: true
 related_posts: false
@@ -36,7 +36,7 @@ Le trading peut s'apparenter à un métier à part entière tant il est consomma
 Pour effectuer un trade dans les règles de l'art, il faut placer 3 ordres :
 - **un point d'entrée**, il s’agit du prix auquel vous entrez dans un trade et de la quantité d’argent que vous investissez.
 - **un stop loss**, c'est le niveau de prix qui vous permet de sortir automatiquement d’un trade en cas de mouvement défavorable. Cela limite vos pertes.
-- **un point de sortie**, c’est le prix auquel vous sortez du trade pour réaliser un profit.
+- **un take profit**, c’est le prix auquel vous sortez automatiquement du trade pour réaliser un profit.
 
 Pour réduire les risques dans le trading, il est essentiel de **diversifier** vos positions en répartissant votre capital entre différents trades.
 
@@ -48,21 +48,26 @@ Le point de vue de l'investisseur est différent de celui du trader.
 
 Lorsqu'un investisseur achète des actions, il va acheter une partie d'un **business**. Alors que le trader va étudier l'évolution graphique des cours, l'investisseur va plutôt s'intéresser à l'entreprise en elle-même et comment elle gagne son argent.
 
-Du point de vue d'un investisseur, une entreprise est une **machine à générer de l'argent** en vendant des produits ou des services. Pour illuster cela, Warren Buffet prend souvent l'exemple d'une ferme. Si vous décidez d'acquérir une ferme, vous allez vous intéresser à la quantité de lait, d'oeufs ou de légumes que vous allez produire, ainsi qu'au coût salarial de vos fermiers, afin de dégager un bon **rendement**.
+Du point de vue d'un investisseur, une entreprise est une **machine à générer de l'argent** en vendant des produits ou des services. Pour illuster cela, Warren Buffet prend souvent l'exemple d'une ferme. Si vous décidez d'acquérir une ferme, vous allez vous intéresser à la quantité de lait, d'oeufs ou de légumes que la ferme va produire, ainsi que les divers coûts d'exploitation, afin de dégager un bon **rendement**.
 
 ```pseudocode
-Rendement = Free Cash Flow / Somme investie au départ
-
-Free Cash Flow = Argent généré l'activité opérationnelle - les dépenses pour maintenir l'activité
+Rendement = Flux de trésorerie disponible / Somme investie au départ
 ```
 
-Si vous souhaitez acquérir une ferme, vous voudrez la payer au juste prix ou avec une décôte et avoir un rendement intéressant
+Le flux de trésorerie disponible ou Free Cash Flow, est l'argent généré par l'activité opérationnelle, moins les dépenses pour maintenir l'activité. Dans notre exemple, ce sera l'argent rapporté par la vente des produits de la ferme diminué des coûts pour la maintenance des outils agricoles comme les tracteurs.
 
-Imaginons que vous ayiez évalué la ferme à un certain prix en utilisant la méthode **DCF** (Discounted Cash Flow, ce dernier sera expliqué dans un autre post). La ferme étant prospère, vous êtes prêt à la payer au juste prix voire même sans décôte. Vous allez donc prendre ce montant et diviser par le nombre total d'actions déclarées dans le capital. 
+Un investisseur voudra un rendement élevé et stable. Si vous observez la formule du rendement, on peut déduire que l'investisseur voudra :
+- un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel ou **moat** qui empêchera un concurrent de dupliquer facilement le business.
+- un prix d'achat raisonnable
 
-Bravo ! Vous venez de calculer votre prix d'achat par action, il ne vous reste plus qu'à aller négocier avec l'actuel propriétaire. Si la ferme est côtée à la bourse, vous pouvez aussi acquérir des actions en passant par le marché.
+## Le risque
 
-## Le momentum
+La notion de risque est différente pour un trader ou pour un investisseur.
+Pour un trader, le risque va représenter la probabilité que le trade touche un stop loss et que le montant parié soit perdu.
+Pour un investisseur, le risque va représenter la possibilité que le business ne délivre pas le rendement attendu dans le futur.
+
+
+
 
 ## Le marché
 

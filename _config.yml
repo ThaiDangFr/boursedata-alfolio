@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-blog_description: latest news and educational content on investing
+blog_description: latest news and free educational content on investing
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
