@@ -9,6 +9,6 @@ business: Mastercard, Inc. est une société technologique qui fournit des solut
 sector: Finance
 industry: Specialty Finance
 domicile: United States
-currency: U.S. Dollar
+currency: U.S. Dolla
 ---
 {% include stocks.liquid %}

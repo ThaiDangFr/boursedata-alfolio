@@ -10,5 +10,8 @@ sector: Finance
 industry: Specialty Finance
 domicile: United States
 currency: U.S. Dollar
+analysis: 
+    14/05/2024: https://www.yahoo.com
+    13/04/2023: https://www.google.com
 ---
 {% include stocks.liquid %}

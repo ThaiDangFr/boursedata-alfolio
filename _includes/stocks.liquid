@@ -7,3 +7,13 @@
     <p>{{ page.sector }} / {{ page.industry }}</p>
   </div>
 </div>
+
+
+{% if page.analysis %}
+### Achat d'analyses
+<ul>
+{% for analysis in page.analysis %}
+<li><a href="{{ analysis[1] }}">Achetez l'analyse de {{ page.description }} du {{ analysis[0] }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}

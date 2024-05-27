@@ -1,6 +1,8 @@
-liquid
-======
+documentation
+=============
 - https://shopify.github.io/liquid/
+- https://jekyllrb.com/docs/pages/
+
 
 al-folio
 ========
@@ -56,7 +58,6 @@ cible
 - stocks
     - tableau avec "ticker" et "nom"
         - "ticker" renvoie sur une page avec "description" et "sector"
-- faq
 - blog
 
 

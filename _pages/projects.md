@@ -1,8 +1,8 @@
 ---
 layout: page
-title: stocks
+title: stocks & market
 permalink: /stocks/
-description: Analyses d'action et de marché (partie payante)
+description: Retrouvez ici les analyses d'action et de marché
 nav: true
 nav_order: 2
 display_categories: [stocks, market]
