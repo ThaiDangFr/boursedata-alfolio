@@ -5,7 +5,7 @@ description: Mastercard
 img: https://www.mastercard.com/content/dam/public/brandcenter/assets/images/logos/mclogo-for-footer.svg
 category: stocks
 price: 19.99
-business: Mastercard, Inc. is a technology company, which engages in the provision of payment solutions for the development and implementation of credit, debit, prepaid, commercial, and payment programs through its brands including Mastercard, Maestro, and Cirrus. It also offers cyber and intelligence solutions. The company was founded in November 1966 and is headquartered in Purchase, NY.
+business: Mastercard, Inc. est une société technologique qui fournit des solutions de paiement pour le développement et la mise en œuvre de programmes de crédit, de débit, prépayés, commerciaux et de paiement à travers ses marques, notamment Mastercard, Maestro et Cirrus. Elle propose également des solutions de cyber et de renseignement. La société a été fondée en novembre 1966 et son siège social est situé à Purchase, dans l'État de New York.
 sector: Finance
 industry: Specialty Finance
 domicile: United States

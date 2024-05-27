@@ -5,7 +5,7 @@ description: Visa
 img: https://cdn.visa.com/v2/assets/images/logos/visa/blue/logo.png
 category: stocks
 price: 19.99
-business: Visa, Inc. engages in the provision of digital payment services. It also facilitates global commerce through the transfer of value and information among a global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities. It offers debit cards, credit cards, prepaid products, commercial payment solutions, and global automated teller machines. The company was founded by Dee Hock in 1958 and is headquartered in San Francisco, CA.
+business: Visa, Inc. s'engage dans la fourniture de services de paiement numérique. Il facilite également le commerce mondial grâce au transfert de valeur et d'informations entre un réseau mondial de consommateurs, de commerçants, d'institutions financières, d'entreprises, de partenaires stratégiques et d'entités gouvernementales. Elle propose des cartes de débit, des cartes de crédit, des produits prépayés, des solutions de paiement commerciales et des guichets automatiques mondiaux. La société a été fondée par Dee Hock en 1958 et son siège social est à San Francisco, en Californie.
 sector: Finance
 industry: Specialty Finance
 domicile: United States
