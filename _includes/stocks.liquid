@@ -1,6 +1,9 @@
-
-{{ page.price }}
-
-{{ page.business }}
-
-{{ page.sector }} / {{ page.industry }}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-2 mt-3 mt-md-0">
+    {% include figure.liquid path=page.img title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-10 mt-3 mt-md-0">
+    <p>{{ page.business }}</p>
+    <p>{{ page.sector }} / {{ page.industry }}</p>
+  </div>
+</div>
