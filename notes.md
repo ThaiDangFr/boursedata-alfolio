@@ -1,3 +1,7 @@
+liquid
+======
+- https://shopify.github.io/liquid/
+
 al-folio
 ========
 - https://github.com/alshedivat/al-folio
@@ -56,4 +60,16 @@ cible
 - blog
 
 
+giscus
+======
+- sur github, activer settings > discussions
+- https://github.com/marketplace/giscus et cliquer install
+- aller sur https://giscus.app/fr pour récuppérer repo_id et category_id
+- personnaliser la section giscus dans \_config.yml et changer category à Announcements
+
+
+stock list
+==========
+- https://cloudcannon.com/cheat-sheets/jekyll/
+- https://jekyllrb.com/docs/collections/
 

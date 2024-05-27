@@ -32,6 +32,8 @@ Quand vendre ?
 
 ## Le ROIC et le Net Margin
 
+## La dette et le capex par rapport au FCF
+
 ## Catégorisation
 
 ## Croisement d'information avec d'autres sites d'information
@@ -41,4 +43,4 @@ Quand vendre ?
 - Macro Axis
 - Guru Focus
 
-## L'avis final
+## Marge de sécurité et avis final
