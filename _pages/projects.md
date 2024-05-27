@@ -5,8 +5,8 @@ permalink: /stocks/
 description: Analyses d'action et de marché (partie payante)
 nav: true
 nav_order: 2
-display_categories: [stocks, fun, work]
-horizontal: tru
+display_categories: [stocks, market]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
