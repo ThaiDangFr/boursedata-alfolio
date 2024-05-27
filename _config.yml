@@ -180,9 +180,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  stocks:
-    output: false
-    permalink: /stocks/:path/
+
 
 announcements:
   enabled: true

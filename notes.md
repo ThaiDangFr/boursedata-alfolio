@@ -73,3 +73,5 @@ stock list
 - https://cloudcannon.com/cheat-sheets/jekyll/
 - https://jekyllrb.com/docs/collections/
 
+On met les actions dans \_projects pour bénéficier du moteur de recherche
+J'ai essayé de le mettre dans un autre répertoire, le moteur de recherche ne l'a pas indexé
