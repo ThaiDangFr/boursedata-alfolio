@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trading vs investissement
-date: 2024-05-25 11:59:00-0000
+date: 2024-05-28 12:00:00-0100
 description: La différence entre le trading et l'investissement
 tags: trading investir
 categories: education
@@ -51,15 +51,15 @@ Lorsqu'un investisseur achète des actions, il va acheter une partie d'un **busi
 
 Du point de vue d'un investisseur, une entreprise est une **machine à générer de l'argent** en vendant des produits ou des services. Pour illuster cela, Warren Buffet prend souvent l'exemple d'une ferme. Si vous décidez d'acquérir une ferme, vous allez vous intéresser à la quantité de lait, d'oeufs ou de légumes que la ferme va produire, ainsi que les divers coûts d'exploitation, afin de dégager un bon **rendement**.
 
-```pseudocode
+```
 Rendement = Flux de trésorerie disponible / Somme investie au départ
 ```
 
-Le flux de trésorerie disponible ou Free Cash Flow, est l'argent généré par l'activité opérationnelle, moins les dépenses pour maintenir l'activité. Dans notre exemple, ce sera l'argent rapporté par la vente des produits de la ferme diminué des coûts pour la maintenance des outils agricoles comme les tracteurs.
+Le flux de trésorerie disponible ou **"Free Cash Flow"**, est l'argent généré par l'activité opérationnelle, moins les dépenses pour maintenir l'activité. Dans notre exemple, ce sera l'argent rapporté par la vente des produits de la ferme diminué des coûts pour la maintenance des outils agricoles comme les tracteurs.
 
 Un investisseur voudra un rendement élevé et stable. Si vous observez la formule du rendement, on peut déduire que l'investisseur voudra :
 
-- un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel ou **moat** qui empêchera un concurrent de dupliquer facilement le business.
+- un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel, ou **"moat"** en Anglais, qui empêchera un concurrent de dupliquer facilement le business.
 - un prix d'achat raisonnable
 
 ## Le risque
@@ -82,22 +82,32 @@ De plus la SEC, qui est le régulateur boursier :
 - peut suspendre la vente à découvert sur un titre en forte volatilité
 - peut poursuivre en justice les auteurs de manipulation de marché
 
+Pour le trader, le marché va lui envoyer des signaux, qu'il va interpréter pour placer ses ordres. Pour l'investisseur, le marché est juste un lieu d'échange.
+
 ## Conclusion
 
 **Le trading** est une activité difficile car c'est une compétition parmi les élites. Vous ferez face à des traders aguerris, des machines avec des algorithmes optimisés par des chercheurs, et des manipulations de marché. De plus, cette activité nécessite de passer beaucoup de trade pour diversifier ses positions, et donc beaucoup de temps.
 
 **L'investissement** est moins difficile, mais il nécessite de passer du temps à analyser les rapports annuels des entreprises, lire et se cultiver pour comprendre les grandes tendances, et avoir une liste d'actions que l'on connait et que l'on suit, afin de rester au plus près de notre zone de connaissance. L'investisseur initiera une position s'il juge que le prix ne reflète pas la vraie valeur de l'entreprise.
 
-Trading :
 
+## A retenir
+
+**Trading**
 - "try to time the market" : on va essaie d'entrer et sortir au bon moment
-- "the market instructs you" : le marché nous donne des signaux et on s'adapte à lui, mais il est impossible de prédire les mouvements
+- "the market instructs you" : le marché nous délivre des signaux et on essaie de s'adapter, mais attention, il est impossible de prédire les mouvements futurs, on peut seulement supposer des scénarios
 
-Investissement :
-
-- "spend time in the market" : on laisse nos positions dormir le plus longtemps possible
+**Investissement**
+- "spend time in the market" : on laisse nos positions courir le plus longtemps possible pour bénéficier des intérêts composés
 - "the market serves you" : le marché est juste un endroit pour effectuer des échanges
 
-> Chez Bourse Data, nous avons fait le choix de l'investissement.
-> La ligne éditoriale sera donc très tournée autour de ce thème.
-> {: .block-tip }
+## Quelques citations
+
+> - "If timing the market is such a great strategy, why haven't we seen the names of any market timers at the top of the Forbes list of richest Americans?” Peter Lynch
+> - “I am an exponent of the philosophy that the main objective of common stock investment should be pricing, not timing; and by pricing I mean the endeavor to buy securities at prices which are attractive, letting timing take care of itself.” Benjamin Graham
+> - “I don't believe all this nonsense about market timing. Just buy very good value and when the market is ready that value will be recognized.” Henry Singleton
+> - “Most people who have been really successful in the securities markets say the same thing -- that they're not smart enough to get into the market and out of it. So they tend to remain more or less in the market at all times.” Walter Schloss
+
+> Chez Bourse Data, nous avons décidé de nous concentrer sur l’investissement.
+> Notre ligne éditoriale sera donc principalement axée sur ce sujet.
+{: .block-tip }
