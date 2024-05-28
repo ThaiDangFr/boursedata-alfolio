@@ -14,7 +14,7 @@ footer_text: >
 
 keywords: analyse d'actions, contenu éducatif, investissement, stock analysis, educational content on investing
 lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📈 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://boursedata.fr # the base hostname & protocol for your site
 baseurl:
@@ -60,9 +60,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: http://boursedata.fr/assets/img/bourse-data.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -231,7 +231,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - notes.md
 keep_files:
   - CNAME
   - .nojekyll
