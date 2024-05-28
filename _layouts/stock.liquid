@@ -13,10 +13,12 @@ layout: page
 
 
 {% if page.analysis %}
-<h5>Analyses du titre</h5>
-<ul>
-{% for analysis in page.analysis %}
-<li><a href="{{ analysis[1] }}">Achetez l'analyse de {{ page.description }} du {{ analysis[0] }}</a></li>
-{% endfor %}
-</ul>
+  <h5>Analyses du titre</h5>
+  <ul>
+    {% for analysis in page.analysis %}
+      <li>
+        <a href="{{ analysis[1] }}">Achetez l'analyse de {{ page.description }} du {{ analysis[0] }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 {% endif %}

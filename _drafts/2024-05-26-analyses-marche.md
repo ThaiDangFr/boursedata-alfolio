@@ -14,8 +14,3 @@ toc:
 ## Des indicateurs techniques indiquent un marché bas
 
 ## Une liste d'actions intéressantes
-
-
-
-
-

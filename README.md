@@ -3,9 +3,8 @@ documentation
 - https://shopify.github.io/liquid
 - https://jekyllrb.com/docs/step-by-step/01-setup => intéressant pour comprendre
 - emoji
-    - https://www.webfx.com/tools/emoji-cheat-sheet
-    - https://emojidb.org/stock-market-emojis
-
+  - https://www.webfx.com/tools/emoji-cheat-sheet
+  - https://emojidb.org/stock-market-emojis
 
 al-folio
 ========
@@ -38,8 +37,6 @@ $ docker compose up --build
 
 - pour exclure des fichiers du rebuild automatique, voir dans \_config.yml dans la section "exclude:"
 
-
-
 analyse de l'existant
 =====================
 - about             => _pages/about.md et utilise le _layouts/about.liquid
@@ -52,10 +49,6 @@ analyse de l'existant
 - people            => supprimer profiles.md et about_einstein.md
 - submenus          => supprimer dropdown.md
 
-
-
-
-
 cible
 =====
 - stocks
@@ -63,14 +56,12 @@ cible
         - "ticker" renvoie sur une page avec "description" et "sector"
 - blog
 
-
 giscus
 ======
 - sur github, activer settings > discussions
 - https://github.com/marketplace/giscus et cliquer install
 - aller sur https://giscus.app/fr pour récuppérer repo_id et category_id
 - personnaliser la section giscus dans \_config.yml et changer category à Announcements
-
 
 stock list
 ==========

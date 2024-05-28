@@ -18,8 +18,3 @@ toc:
 ## Un side-project qui rapporte
 
 ## Les premiers dividendes
-
-
-
-
-

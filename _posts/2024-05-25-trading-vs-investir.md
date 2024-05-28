@@ -34,6 +34,7 @@ Le trading peut s'apparenter à un métier à part entière tant il est consomma
 ## Le trading
 
 Pour effectuer un trade dans les règles de l'art, il faut placer 3 ordres :
+
 - **un point d'entrée**, il s’agit du prix auquel vous entrez dans un trade et de la quantité d’argent que vous investissez.
 - **un stop loss**, c'est le niveau de prix qui vous permet de sortir automatiquement d’un trade en cas de mouvement défavorable. Cela limite vos pertes.
 - **un take profit**, c’est le prix auquel vous sortez automatiquement du trade pour réaliser un profit.
@@ -57,6 +58,7 @@ Rendement = Flux de trésorerie disponible / Somme investie au départ
 Le flux de trésorerie disponible ou Free Cash Flow, est l'argent généré par l'activité opérationnelle, moins les dépenses pour maintenir l'activité. Dans notre exemple, ce sera l'argent rapporté par la vente des produits de la ferme diminué des coûts pour la maintenance des outils agricoles comme les tracteurs.
 
 Un investisseur voudra un rendement élevé et stable. Si vous observez la formule du rendement, on peut déduire que l'investisseur voudra :
+
 - un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel ou **moat** qui empêchera un concurrent de dupliquer facilement le business.
 - un prix d'achat raisonnable
 
@@ -67,6 +69,7 @@ Pour un trader, le risque va représenter la probabilité que le trade touche un
 Pour un investisseur, le risque va représenter la possibilité que le business ne délivre pas le rendement attendu dans le futur.
 
 ## Les marchés
+
 Les marchés boursiers sont des lieux où s’échangent des titres financiers, tels que des actions, des obligations ou des devises.
 
 Chaque marché possède ses propres règles. Par exemple, le marché des actions américaines :
@@ -84,13 +87,14 @@ De plus la SEC, qui est le régulateur boursier :
 **L'investissement** est moins difficile, mais il nécessite de passer du temps à analyser les rapports annuels des entreprises, lire et se cultiver pour comprendre les grandes tendances, et avoir une liste d'actions que l'on connait et que l'on suit, afin de rester au plus près de notre zone de connaissance. L'investisseur initiera une position s'il juge que le prix ne reflète pas la vraie valeur de l'entreprise.
 
 Trading :
+
 - "try to time the market" : on va essaie d'entrer et sortir au bon moment
 - "the market instructs you" : le marché nous donne des signaux et on s'adapte à lui, mais il est impossible de prédire les mouvements
 
 Investissement :
+
 - "spend time in the market" : on laisse nos positions dormir le plus longtemps possible
 - "the market serves you" : le marché est juste un endroit pour effectuer des échanges
-
 
 > Chez Bourse Data, nous avons fait le choix de l'investissement. 
 > La ligne éditoriale sera donc très tournée autour de ce thème.
