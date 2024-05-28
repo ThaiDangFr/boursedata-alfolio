@@ -66,16 +66,32 @@ La notion de risque est différente pour un trader ou pour un investisseur.
 Pour un trader, le risque va représenter la probabilité que le trade touche un stop loss et que le montant parié soit perdu.
 Pour un investisseur, le risque va représenter la possibilité que le business ne délivre pas le rendement attendu dans le futur.
 
+## Les marchés
+Les marchés boursiers sont des lieux où s’échangent des titres financiers, tels que des actions, des obligations ou des devises.
+
+Chaque marché possède ses propres règles. Par exemple, le marché des actions américaines :
+- ouvre entre 15h30 et 22h heure de Paris
+- possède un circuit breaker mettant en pause les échanges pendant 15 minutes si la baisse atteint 7%, puis 13%, et au delà de 20%, les échanges sont suspendus pour la journée
+
+De plus la SEC, qui est le régulateur boursier :
+- peut suspendre la vente à découvert sur un titre en forte volatilité
+- peut poursuivre en justice les auteurs de manipulation de marché
+
+## Conclusion
+
+**Le trading** est une activité difficile car c'est une compétition parmi les élites. Vous ferez face à des traders aguerris, des machines avec des algorithmes optimisés par des chercheurs, et des manipulations de marché. De plus, cette activité nécessite de passer beaucoup de trade pour diversifier ses positions, et donc beaucoup de temps.
+
+**L'investissement** est moins difficile, mais il nécessite de passer du temps à analyser les rapports annuels des entreprises, lire et se cultiver pour comprendre les grandes tendances, et avoir une liste d'actions que l'on connait et que l'on suit, afin de rester au plus près de notre zone de connaissance. L'investisseur initiera une position s'il juge que le prix ne reflète pas la vraie valeur de l'entreprise.
+
+Trading :
+- "try to time the market" : on va essaie d'entrer et sortir au bon moment
+- "the market instructs you" : le marché nous donne des signaux et on s'adapte à lui, mais il est impossible de prédire les mouvements
+
+Investissement :
+- "spend time in the market" : on laisse nos positions dormir le plus longtemps possible
+- "the market serves you" : le marché est juste un endroit pour effectuer des échanges
 
 
-
-## Le marché
-
-## Notre point de vue
-
-
-## Time in the market versus timing the market
-## Let the market serve you, not to instruct you
-
-
-
+> Chez Bourse Data, nous avons fait le choix de l'investissement. 
+> La ligne éditoriale sera donc très tournée autour de ce thème.
+{: .block-tip }
