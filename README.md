@@ -52,8 +52,8 @@ analyse de l'existant
 cible
 =====
 - stocks
-    - tableau avec "ticker" et "nom"
-        - "ticker" renvoie sur une page avec "description" et "sector"
+  - tableau avec "ticker" et "nom"
+    - "ticker" renvoie sur une page avec "description" et "sector"
 - blog
 
 giscus
