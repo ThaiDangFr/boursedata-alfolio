@@ -45,7 +45,7 @@ Vous ne gagnerez pas à chaque fois, mais l’objectif est d’avoir statistique
 
 ## L'investissement
 
-Le point de vue de l'investisseur est différent de celui du trader. 
+Le point de vue de l'investisseur est différent de celui du trader.
 
 Lorsqu'un investisseur achète des actions, il va acheter une partie d'un **business**. Alors que le trader va étudier l'évolution graphique des cours, l'investisseur va plutôt s'intéresser à l'entreprise en elle-même et comment elle gagne son argent.
 
@@ -96,6 +96,6 @@ Investissement :
 - "spend time in the market" : on laisse nos positions dormir le plus longtemps possible
 - "the market serves you" : le marché est juste un endroit pour effectuer des échanges
 
-> Chez Bourse Data, nous avons fait le choix de l'investissement. 
+> Chez Bourse Data, nous avons fait le choix de l'investissement.
 > La ligne éditoriale sera donc très tournée autour de ce thème.
 {: .block-tip }

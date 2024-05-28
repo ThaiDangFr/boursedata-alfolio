@@ -20,4 +20,3 @@ toc:
 ## Bandes de Bollinger
 
 ## Le VIX pour mesurer la volatilité du marché
-

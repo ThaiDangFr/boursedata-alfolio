@@ -70,3 +70,9 @@ stock list
 
 On met les actions dans \_projects pour bénéficier du moteur de recherche
 J'ai essayé de le mettre dans un autre répertoire, le moteur de recherche ne l'a pas indexé
+
+
+Pipeline
+========
+Prettier code formatter / check (pull_request) :
+- mettre des exclude dans .prettierignore
