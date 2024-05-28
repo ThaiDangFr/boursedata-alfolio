@@ -76,3 +76,10 @@ Pipeline
 ========
 Prettier code formatter / check (pull_request) :
 - mettre des exclude dans .prettierignore
+- il veut une ligne vide à la fin des fichiers
+
+```bash
+npm install -D prettier @shopify/prettier-plugin-liquid
+npx prettier . --check
+npx prettier . --write
+```

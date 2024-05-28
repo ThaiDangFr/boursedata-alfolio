@@ -73,10 +73,12 @@ Pour un investisseur, le risque va représenter la possibilité que le business 
 Les marchés boursiers sont des lieux où s’échangent des titres financiers, tels que des actions, des obligations ou des devises.
 
 Chaque marché possède ses propres règles. Par exemple, le marché des actions américaines :
+
 - ouvre entre 15h30 et 22h heure de Paris
 - possède un circuit breaker mettant en pause les échanges pendant 15 minutes si la baisse atteint 7%, puis 13%, et au delà de 20%, les échanges sont suspendus pour la journée
 
 De plus la SEC, qui est le régulateur boursier :
+
 - peut suspendre la vente à découvert sur un titre en forte volatilité
 - peut poursuivre en justice les auteurs de manipulation de marché
 
@@ -98,4 +100,4 @@ Investissement :
 
 > Chez Bourse Data, nous avons fait le choix de l'investissement.
 > La ligne éditoriale sera donc très tournée autour de ce thème.
-{: .block-tip }
+> {: .block-tip }
