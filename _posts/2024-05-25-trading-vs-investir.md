@@ -51,15 +51,14 @@ Lorsqu'un investisseur achète des actions, il va acheter une partie d'un **busi
 
 Du point de vue d'un investisseur, une entreprise est une **machine à générer de l'argent** en vendant des produits ou des services. Pour illuster cela, Warren Buffet prend souvent l'exemple d'une ferme. Si vous décidez d'acquérir une ferme, vous allez vous intéresser à la quantité de lait, d'oeufs ou de légumes que la ferme va produire, ainsi que les divers coûts d'exploitation, afin de dégager un bon **rendement**.
 
-```pseudocode
-Rendement = Flux de trésorerie disponible / Somme investie au départ
-```
+> Rendement = Flux de trésorerie disponible / Somme investie au départ
+{: .block-warning }
 
 Le flux de trésorerie disponible ou Free Cash Flow, est l'argent généré par l'activité opérationnelle, moins les dépenses pour maintenir l'activité. Dans notre exemple, ce sera l'argent rapporté par la vente des produits de la ferme diminué des coûts pour la maintenance des outils agricoles comme les tracteurs.
 
 Un investisseur voudra un rendement élevé et stable. Si vous observez la formule du rendement, on peut déduire que l'investisseur voudra :
 
-- un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel ou **moat** qui empêchera un concurrent de dupliquer facilement le business.
+- un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel, ou **"moat"** en Anglais, qui empêchera un concurrent de dupliquer facilement le business.
 - un prix d'achat raisonnable
 
 ## Le risque
@@ -95,9 +94,9 @@ Trading :
 
 Investissement :
 
-- "spend time in the market" : on laisse nos positions dormir le plus longtemps possible
+- "spend time in the market" : on laisse nos positions courir le plus longtemps possible pour bénéficier des intérêts composés
 - "the market serves you" : le marché est juste un endroit pour effectuer des échanges
 
 > Chez Bourse Data, nous avons fait le choix de l'investissement.
 > La ligne éditoriale sera donc très tournée autour de ce thème.
-> {: .block-tip }
+{: .block-tip }
