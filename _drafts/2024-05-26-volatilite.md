@@ -2,7 +2,7 @@
 layout: post
 title: La volatilité
 date: 2024-05-25 11:59:00-0000
-description: Les différentes façon de mesure la volatilité
+description: Les différentes façon de mesurer la volatilité
 tags: investir
 categories: education
 giscus_comments: true

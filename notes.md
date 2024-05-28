@@ -1,7 +1,8 @@
 documentation
 =============
-- https://shopify.github.io/liquid/
-- https://jekyllrb.com/docs/pages/
+- https://shopify.github.io/liquid
+- https://jekyllrb.com/docs/step-by-step/01-setup => intéressant pour comprendre
+- emoji : https://www.webfx.com/tools/emoji-cheat-sheet
 
 
 al-folio
