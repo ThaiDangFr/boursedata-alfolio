@@ -6,6 +6,13 @@ documentation
   - https://www.webfx.com/tools/emoji-cheat-sheet
   - https://emojidb.org/stock-market-emojis
 
+
+dashboard
+=========
+- google analytics : https://analytics.google.com/
+- search console   : https://search.google.com/       => scrap sitemap
+
+
 al-folio
 ========
 - https://github.com/alshedivat/al-folio
