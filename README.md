@@ -2,6 +2,7 @@ documentation
 =============
 - https://shopify.github.io/liquid
 - https://jekyllrb.com/docs/step-by-step/01-setup => intéressant pour comprendre
+- https://github.com/mnyrop/nycdh-jekyll/blob/master/docs/markdown-cheatsheet.md => tables, images
 - emoji
   - https://www.webfx.com/tools/emoji-cheat-sheet
   - https://emojidb.org/stock-market-emojis

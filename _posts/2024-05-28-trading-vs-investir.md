@@ -17,7 +17,7 @@ Quand on sort de l'école après plusieurs années d'étude, on pense tout savoi
 
 Malheureusement, on peut trainer cette lacune pendant plusieurs années, jusqu'au jour fatal où on va commettre une erreur qui va nous faire perdre plusieurs années d'économie..
 
-Bourse Data est donc née d'un besoin, celui d'acquérir une éducation financière solide afin d'être en capacité de faire ses propres choix.
+Bourse Data est donc née d'un besoin, celui d'acquérir une éducation financière solide afin d'être en capacité de faire ses choix en toute autonomie.
 
 ### Placer son capital
 
@@ -53,11 +53,11 @@ Du point de vue d'un investisseur, une entreprise est une **machine à générer
 Rendement = Flux de trésorerie disponible / Somme investie au départ
 ```
 
-Le flux de trésorerie disponible ou **"Free Cash Flow"**, est l'argent généré par les activités opérationnelles, moins les dépenses pour maintenir l'activité. Dans notre exemple, ce sera l'argent rapporté par la vente des produits de la ferme diminué des coûts pour la maintenance des outils agricoles comme les tracteurs.
+Le flux de trésorerie disponible ou **"Free Cash Flow"** en anglais, est l'argent généré par les activités opérationnelles, moins les dépenses pour maintenir l'activité. Dans notre exemple, ce sera l'argent rapporté par la vente des produits de la ferme diminué des coûts pour la maintenance des outils agricoles comme les tracteurs.
 
 Un investisseur voudra un rendement élevé et stable. Si vous observez la formule du rendement, on peut déduire que l'investisseur voudra :
 
-- un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel, ou **"moat"** en Anglais, qui empêchera un concurrent de dupliquer facilement le business.
+- un Free Cash Flow élevé et stable, donc que le business devra être rentable et ne pas perdre de sa superbe dans le temps, grâce à un avantage concurrentiel, ou **"moat"** en anglais, qui empêchera un concurrent de dupliquer facilement le business.
 - un prix d'achat raisonnable
 
 ### La notion de risque
