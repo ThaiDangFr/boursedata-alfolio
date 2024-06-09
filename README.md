@@ -6,6 +6,7 @@ documentation
 - emoji
   - https://www.webfx.com/tools/emoji-cheat-sheet
   - https://emojidb.org/stock-market-emojis
+- mathjax https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/
 
 
 dashboard
