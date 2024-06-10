@@ -133,7 +133,7 @@ Un investisseur peut en profiter pour :
 #### Affiner sa stratégie d'acquisition grâce à l'UPI
 Une action dont l'UPI est faible indique que l'action a connu dans le passé des périodes de baisse forte et durable, cela est généralement le cas pour une entreprise cyclique. Ainsi, il conviendra d'accumuler des actions lors du cycle baissier, sans se précipiter.
 
-Au contraire, une action avec un UPI élevé, indique que l'action n'a connu seulement que des baisses modérées. La plupart du temps, il s'agit d'entreprises florissantes capable de passer les tempêtes. Ainsi l'investisseur voulant accumuler des actions, peut commencer même avec juste un léger discount sur sa valeur intrinsèque.
+Au contraire, une action avec un UPI élevé, indique que l'action n'a connu seulement que des baisses modérées. La plupart du temps, il s'agit d'entreprises florissantes capable de passer les tempêtes. Ainsi l'investisseur souhaitant accumuler des actions, peut commencer même avec un léger discount sur la valeur intrinsèque.
 
 #### Identifier un bas de marché
 Un marché peut parfois se transformer en une véritable braderie où de nombreuses actions subissent une décôte importante. Cet état arrive soit en période de récession, soit lors d'épisode de panique générale. Il est impossible de dire ou de prédire un point bas de marché mais il est possible d'estimer si nous sommes dans une zone basse de marché.

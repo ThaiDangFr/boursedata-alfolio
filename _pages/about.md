@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 La ligne éditoriale du site est axée sur la concision et la vulgarisation des marchés financiers.
 
-Pour les investisseurs plus avancés, une section **premium payante** propose des analyses d’actions et de marché.
+Pour les investisseurs plus avancés, une section **premium payante** (en cours d'élaboration) proposera des analyses d’actions et de marché.
