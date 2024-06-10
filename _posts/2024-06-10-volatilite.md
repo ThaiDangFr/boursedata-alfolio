@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La volatilité
-date: 2024-06-08 17:10:00-0000
+date: 2024-06-10 12:00:00-0100
 description: Les différentes façon de mesurer la volatilité
 tags: investir
 categories: education
@@ -90,12 +90,63 @@ Vous trouverez [ici](/assets/pdf/ui.pdf) un article en anglais expliquant en dé
 
 ## Bandes de Bollinger
 
+Les bandes de Bollinger sont constituées de trois lignes :
+- une moyenne mobile simple, généralement calculée sur 20 jours
+- une bande supérieure située à deux écarts-types au dessus de la moyenne mobile simple
+- une bande inférieure située à deux écarts-types en dessous de la moyenne mobile simple
 
+Théoriquement, il y a 95% de chance que l'évolution du cours s'établisse à l'intérieur des bandes supérieure et inférieure. Ainsi, plus les bandes sont larges, plus il y a de volatilité.
+
+En analyse technique, nous observons généralement que :
+- il y a une alternance de bande serrée et de bandes larges
+- il y un début de tendance par un élargissement des bandes, la moyenne mobile indiquant la direction à la baisse ou à la hausse
+- il y a un essouflement par un resserrement des bandes
+- une action aura un potentiel de hausse ou de baisse important à la sortie d'un canal serré avec une moyenne mobile horizontale
+
+> L'écartement des bandes de Bollinger donne une indication sur l'importance de la volatilité, et la direction de la moyenne mobile donne une indication sur la tendance haussière ou baissière
+{: .block-tip }
 
 ## Le VIX pour mesurer la volatilité du marché
 
+Jusqu'à présent, nous avons vu des indicateurs qui mesure la volatilité sur les prix passés, nous parlons de volatilité historique.
+
+Le VIX permet quand à lui de mesurer la volatilité implicite, ou volatilité attendue. Cette méthode est tournée vers le futur car elle repose sur le prix des options.
+
+Les options sont une sorte d'assurance qu'un investisseur peut acheter pour :
+- protéger une position d'une forte baisse, 
+- lui éviter de manquer une opportunité d'achat en cas de forte hausse du cours
+
+Le prix des options est fixé par le marché, et plus une hypothèse à de chance de se produire, par exemple qu'une action atteigne un certain prix, et plus le prix de l'option est élevé.
+
+> Le VIX, également appelé indice de la peur, est un indicateur de la nervosité des marchés financiers.
+> Basé sur une moyenne pondérée du prix des options, elle reflète les attentes des investisseurs à se protéger face à une forte volatilité.
+> Plus le VIX est élevé et plus le prix des options est élevé.
+{: .block-tip }
+
 ## Point de vue de l'investisseur
 
-L'UPI permet d'avoir  une idée de la catégorie de l'action. Par exemple, une action cyclique aura un UPI faible.
-L'UPI permet également d'affiner sa stratégie d'acquisition. Un UPI faible signifie que l'action est sûrement cyclique et qu'il est intéressant d'attendre que l'entreprise connaisse une baisse de son activité pour acquérir des actions, car la chutte du cours risque d'être fort si on s'en réfère à son passé. Un UPI fort signifie qu'il ne faut pas s'attendre à un discount extraordinaire sur le prix de l'action, une stratégie d'acquisition à un prix convenable avec une petite marge de sécurité peut convenir.
+#### Profiter de la nervosité lorsque le VIX passe au-dessus de 30
+Un investisseur peut en profiter pour :
+- acquérir des actions d'entreprises florissantes à prix bradé
+- vendre des options pour profiter de l'envolée des cours des options
 
+#### Affiner sa stratégie d'acquisition grâce à l'UPI
+Une action dont l'UPI est faible indique que l'action a connu dans le passé des périodes de baisse forte et durable, cela est généralement le cas pour une entreprise cyclique. Ainsi, il conviendra d'accumuler des actions lors du cycle baissier, sans se précipiter.
+
+Au contraire, une action avec un UPI élevé, indique que l'action n'a connu seulement que des baisses modérées. La plupart du temps, il s'agit d'entreprises florissantes capable de passer les tempêtes. Ainsi l'investisseur voulant accumuler des actions, peut commencer même avec juste un léger discount sur sa valeur intrinsèque.
+
+#### Identifier un bas de marché
+Un marché peut parfois se transformer en une véritable braderie où de nombreuses actions subissent une décôte importante. Cet état arrive soit en période de récession, soit lors d'épisode de panique générale. Il est impossible de dire ou de prédire un point bas de marché mais il est possible d'estimer si nous sommes dans une zone basse de marché.
+
+> Une zone basse de marché peut être identifié par ces indicateurs statistiques :
+> - SPXA200R < 30%
+> - Ulcer Index sur le SP500 > 40
+{: .block-tip }
+
+SPXA200R = Pourcentage d'actions du SP500 au dessus de la moyenne mobile 200 jours. En d'autres terme, SPXA200R représente un pourcentage d'actions avec un momentum positif.
+
+La concordance de ces deux indicateurs peut confirmer le signal statistique d'un bas de marché. Un bon investisseur, ayant laissé accumuler des liquidités, peut profiter de cette occasion pour accumuler ou construire des positions.
+
+#### Les autres indicateurs
+Il existe de nombreux indicateurs techniques. Ils sont souvent utilisé en trading mais offrent peu d'intérêt pour un profil investisseur long terme.
+Le ratio de Sharpe par exemple, bien que connu, ne nous sera pas utile. Le ratio de Sortino, donne une indication plus intéressante, mais reste moins précis que l'UPI. Et quand aux bandes de Bollinger, elles sont intéressantes seulement dans le cadre de l'analyse technique.
