@@ -13,9 +13,9 @@ toc:
 
 ## Introduction
 
-La volatilité est l'ampleur des variations du cours d'un actif financier sur une période donnée, et est généralement mesuré par l'écart-type, mais nous verrons aussi que l'Ulcer Index peut également le quantifier avec plus de justesse.
+La volatilité est l'ampleur des variations du cours d'un actif financier sur une période donnée, et est généralement mesuré par l'écart-type, mais nous verrons aussi que l'Ulcer Index peut également le mesurer avec encore plus de justesse.
 
-La mesure de la volatilité est donc un indicateur technique, car basé sur les variations de prix, et est souvent utilisé en trading, mais nous allons voir comment on peut en tirer avantage en tant qu'investisseur.
+La mesure de la volatilité est donc un indicateur technique, car celle-ci est basée sur des variations de prix. Elle est de facto souvent utilisé en trading. Mais il est également possible d'utiliser ces indicateurs pour des fins d'investissement, c'est ce que nous allons voir.
 
 
 > L'écart-type ou l'Ulcer Index peuvent mesurer la volatilité
@@ -23,7 +23,7 @@ La mesure de la volatilité est donc un indicateur technique, car basé sur les 
 
 ## Ratio de Sharpe
 
-Le ratio de Sharpe mesure l'écart de rentabilité d'un portefeuille d'actions par rapport au taux de rendement d'un placement sans risque, divisé par l'écart-type de la rentabilité de ce portefeuille.
+Le ratio de Sharpe mesure l'écart de rentabilité d'un portefeuille d'actions par rapport au taux de rendement d'un placement sans risque, divisé par l'écart-type de la rentabilité de ce portefeuille. On s'en sert généralement pour comparer des portefeuilles entre eux, et voir celui qui présente le couple rendement-volatilité le plus intéressant.
 
 $$
 \text{Ratio de Sharpe} = \frac{\text{Rentabilité du portefeuille} - \text{Rentabilité d'un placement sans risque}} {\text{Ecart-type à la hausse et à la baisse}}
@@ -35,19 +35,18 @@ Ratio de Sharpe < 1 => le portefeuille est rentable mais avec une volatilité im
 Ratio de Sharpe > 1 => le portefeuille est rentable et avec une volatilité contenue
 ```
 
-Lorsque l'on compare deux portefeuilles, plus le ratio de Sharpe est élevé et plus le portefeuille sera rentable sans d'importantes fluctuations.
+Lorsque l'on compare deux portefeuilles, plus le ratio de Sharpe est élevé et plus le portefeuille sera rentable sans subir d'importantes fluctuations.
 
-Le point faible du ratio de Sharpe, c'est que la volatilité à la hausse est connotée aussi négativement que la volatilité à la baisse. Nous allons voir prochainement comment le ratio de Sortino résoud ce problème.
+Le problème du ratio de Sharpe, c'est qu'une forte volatilité haussière ou baissière est comptée de la même manière. Hors, on souhaiterait idéalement un indicateur qui pénalise plutôt les baisses que les hausses de cours. C'est pour résoudre ce problème qu'à été inventé le ratio de Sortino.
 
 ## Ratio de Sortino
 
-Le ratio de Sortino est une variante du ratio de Sharpe car on ne tiendra compte que de l'écart-type à la baisse. 
+Le ratio de Sortino est une variante du ratio de Sharpe car on ne tiendra compte que de l'écart-type à la baisse. On s'en sert également pour comparer des portefeuilles entre eux, et voir celui qui présente le couple rendement-volatilité le plus intéressant, en prenant uniquement la volatilité à la baisse.
 
 $$
 \text{Ratio de Sortino} = \frac{\text{Rentabilité du portefeuille} - \text{Rentabilité d'un placement sans risque}} {\text{Ecart-type uniquement à la baisse}}
 $$
 
-Lorsque l'on compare deux portefeuilles, celui qui a le ratio de Sortino le plus élevé, est celui qui a présenté le moins de volatilité à la baisse et donc de chute de son cours, le "drawdown" en anglais.
 
 Un exemple
 ```
@@ -66,7 +65,7 @@ P1 est donc un portefeuille offrant moins de volatilité à la baisse malgré so
 
 ## UPI
 
-L'UPI est également une variante du ratio de Sharpe, au lieu de prendre l'écart-type comme mesure de la volatilité, ici on prendra l'Ulcer Index.
+L'UPI est une autre variante du ratio de Sharpe, mais au lieu de prendre l'écart-type comme mesure de la volatilité, on prendra l'Ulcer Index.
 
 $$
 UPI = \frac{\text{Rentabilité du portefeuille} - \text{Rentabilité d'un placement sans risque}} {\text{Ulcer Index}}
@@ -81,7 +80,9 @@ Donc :
 - D(i) se rapprochera de 0 si le cours de clôture est proche du top sur la période
 - Plus la baisse est importante et plus $$ D(i)^2 $$ sera élevé
 
-Ainsi, plus le drawdown est fort et plus la durée pour s'en remettre est long, plus l'Ulcer Index sera élevé, et par conséquent, plus l'UPI sera faible.
+Ainsi :
+- Un UPI faible signifie que l'action a déjà coulé en subissant des baisses de cours fortes et durables
+- Un UPI élevé signifie que l'action est insubmersible et traverse les tempêtes sans trop de dégâts
 
 > L'UPI mesure la volatilité à la baisse en tenant compte de sa profondeur et de sa durée
 {: .block-tip }
@@ -114,7 +115,7 @@ Le VIX permet quand à lui de mesurer la volatilité implicite, ou volatilité a
 
 Les options sont une sorte d'assurance qu'un investisseur peut acheter pour :
 - protéger une position d'une forte baisse, 
-- lui éviter de manquer une opportunité d'achat en cas de forte hausse du cours
+- éviter de manquer une opportunité d'achat en cas de forte hausse du cours
 
 Le prix des options est fixé par le marché, et plus une hypothèse à de chance de se produire, par exemple qu'une action atteigne un certain prix, et plus le prix de l'option est élevé.
 
@@ -123,7 +124,7 @@ Le prix des options est fixé par le marché, et plus une hypothèse à de chanc
 > Plus le VIX est élevé et plus le prix des options est élevé.
 {: .block-tip }
 
-## Point de vue de l'investisseur
+## Profiter des indicateurs de volatilité pour investir au bon moment
 
 #### Profiter de la nervosité lorsque le VIX passe au-dessus de 30
 Un investisseur peut en profiter pour :
@@ -136,17 +137,21 @@ Une action dont l'UPI est faible indique que l'action a connu dans le passé des
 Au contraire, une action avec un UPI élevé, indique que l'action n'a connu seulement que des baisses modérées. La plupart du temps, il s'agit d'entreprises florissantes capable de passer les tempêtes. Ainsi l'investisseur souhaitant accumuler des actions, peut commencer même avec un léger discount sur la valeur intrinsèque.
 
 #### Identifier un bas de marché
-Un marché peut parfois se transformer en une véritable braderie où de nombreuses actions subissent une décôte importante. Cet état arrive soit en période de récession, soit lors d'épisode de panique générale. Il est impossible de dire ou de prédire un point bas de marché mais il est possible d'estimer si nous sommes dans une zone basse de marché.
+Un marché peut parfois se transformer en une véritable braderie où de nombreuses actions subissent une décôte importante. Cet état arrive soit en période de récession, soit lors d'épisodes de panique générale. Hors il est impossible de dire ou prédire avec exactitude le point le plus bas du marché, mais certains indicateurs statistiques combinés ensemble permettent d'estimer si nous en sommes proche.
 
-> Une zone basse de marché peut être identifié par ces indicateurs statistiques :
+> Chez Bourse Data nous aimons utiliser le SPXA200R et l'Ulcer Index combinés ensemble pour déterminer un bas de marché
 > - SPXA200R < 30%
 > - Ulcer Index sur le SP500 > 40
 {: .block-tip }
 
 SPXA200R = Pourcentage d'actions du SP500 au dessus de la moyenne mobile 200 jours. En d'autres terme, SPXA200R représente un pourcentage d'actions avec un momentum positif.
 
-La concordance de ces deux indicateurs peut confirmer le signal statistique d'un bas de marché. Un bon investisseur, ayant laissé accumuler des liquidités, peut profiter de cette occasion pour accumuler ou construire des positions.
+Un bon investisseur, ayant laissé accumuler des liquidités, peut profiter de cette occasion pour accumuler ou construire des positions.
 
-#### Les autres indicateurs
-Il existe de nombreux indicateurs techniques. Ils sont souvent utilisé en trading mais offrent peu d'intérêt pour un profil investisseur long terme.
-Le ratio de Sharpe par exemple, bien que connu, ne nous sera pas utile. Le ratio de Sortino, donne une indication plus intéressante, mais reste moins précis que l'UPI. Et quand aux bandes de Bollinger, elles sont intéressantes seulement dans le cadre de l'analyse technique.
+#### Fear and greed index
+CNN publie un indicateur qui permet de capter le sentiment général du marché grâce à des mesures basées sur plusieurs critères comme le momentum, les options, le vix, etc. Cet indicateur délivre une note entre 0 et 100. En dessous de 25, on est en territoire de panique et au dessus de 75, en zone de sur-achat.
+
+Chez Bourse Data, nous avons observé qu'un [fear & greed index](https://edition.cnn.com/markets/fear-and-greed) < 10 présentait en général des bonnes opportunités d'acquisition.
+
+> Le fear & green index est un indicateur technique permettant d'estimer le sentiment de marché actuel
+{: .block-tip }
