@@ -146,7 +146,7 @@ Un marché peut parfois se transformer en une véritable braderie où de nombreu
 
 SPXA200R = Pourcentage d'actions du SP500 au dessus de la moyenne mobile 200 jours. En d'autres terme, SPXA200R représente un pourcentage d'actions avec un momentum positif.
 
-Un bon investisseur, ayant laissé accumuler des liquidités, peut profiter de cette occasion pour accumuler ou construire des positions.
+Un bon investisseur, ayant laissé accumuler des liquidités, peut profiter de cette occasion pour accumuler ou initier des positions.
 
 #### Fear and greed index
 CNN publie un indicateur qui permet de capter le sentiment général du marché grâce à des mesures basées sur plusieurs critères comme le momentum, les options, le vix, etc. Cet indicateur délivre une note entre 0 et 100. En dessous de 25, on est en territoire de panique et au dessus de 75, en zone de sur-achat.
