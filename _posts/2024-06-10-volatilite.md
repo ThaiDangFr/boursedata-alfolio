@@ -151,7 +151,7 @@ Un bon investisseur, ayant laissé accumuler des liquidités, peut profiter de c
 #### Fear and greed index
 CNN publie un indicateur qui permet de capter le sentiment général du marché grâce à des mesures basées sur plusieurs critères comme le momentum, les options, le vix, etc. Cet indicateur délivre une note entre 0 et 100. En dessous de 25, on est en territoire de panique et au dessus de 75, en zone de sur-achat.
 
-Chez Bourse Data, nous avons observé qu'un [fear & greed index](https://edition.cnn.com/markets/fear-and-greed) < 10 présentait en général des bonnes opportunités d'acquisition.
+Chez Bourse Data, nous avons observé qu'un [fear & greed index](https://edition.cnn.com/markets/fear-and-greed) < 10 présentait souvent des bonnes opportunités d'acquisition.
 
 > Le fear & green index est un indicateur technique permettant d'estimer le sentiment de marché actuel
 {: .block-tip }
