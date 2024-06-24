@@ -6,7 +6,7 @@ title: Bourse Data # the website title (if blank, full name will be used instead
 first_name:
 middle_name:
 last_name:
-email: contact@boursedata.fr
+email: contact at boursedata dot fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Analyse de sociétés côtées en bourse, contenu éducatif sur l'investissement boursier
   Stock analysis, educational content on investing
